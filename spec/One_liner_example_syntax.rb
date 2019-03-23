@@ -6,4 +6,5 @@ RSpec.describe 'shorthand syntax' do
 			expect(subject).to eq(5)
 		end
 	end
+
 end
